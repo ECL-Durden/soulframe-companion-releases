@@ -1,4 +1,4 @@
-# Soulframe Companion
+# Soulframe Companion ![Version](https://img.shields.io/github/v/release/ECL-Durden/soulframe-companion-releases)
 
 Your desktop companion for **Soulframe** — collection tracking, instant answers,
 and build planning in one place.
